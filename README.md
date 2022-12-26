@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @russ021
-- 👀 I’m interested in ruby, python, html, Django, rust
+- 👀 I’m interested in ruby, python, Django, rust
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on an eliquid calculator for linux
     | email: glitch@live.ca
